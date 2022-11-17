@@ -1,0 +1,19 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "this is a example of api",
+  "main": "producer-http-basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "fork",
+    "cluster"
+  ],
+  "author": "Roshi",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.10.0"
+  }
+}
